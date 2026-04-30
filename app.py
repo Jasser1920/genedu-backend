@@ -7,7 +7,6 @@ from typing import Optional, List
 from evaluate import EvaluationRequest, evaluate_quiz
 from langdetect import detect
 from pdf_engine import extract_pdf_text
-from fastapi.staticfiles import StaticFiles
 
 
 USER_LEVEL_STATE = "beginner"  
@@ -30,7 +29,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-app.mount("/static", StaticFiles(directory="static"), name="static")
 def detect_language(text):
     try:
         return detect(text)
