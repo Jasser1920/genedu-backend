@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+groq
+pydantic
+langdetect
+PyPDF2
+python-multipart
+sentence-transformers
+faiss-cpu
+pandas
+networkx
+spacy
+numpy

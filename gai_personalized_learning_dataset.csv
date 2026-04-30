@@ -1,0 +1,201 @@
+user_id,course_id,title,description,difficulty_level,interaction_type,engagement_score,performance_score,timestamp,label
+U23,C11,Natural Language Processing,Text processing and language models,Intermediate,view,0.7,67,2025-11-12 11:29:50,0
+U34,C16,Data Science with Python,Advanced techniques and models,Intermediate,view,0.88,41,2025-10-04 11:29:50,1
+U46,C13,Deep Learning Fundamentals,Foundational concepts and theory,Advanced,click,0.51,93,2026-01-07 11:29:50,1
+U44,C15,Deep Learning Fundamentals,Text processing and language models,Beginner,quiz_attempt,0.94,91,2025-09-09 11:29:50,1
+U8,C14,Deep Learning Fundamentals,Hands-on practical course,Beginner,view,0.69,98,2025-11-09 11:29:50,0
+U46,C9,Natural Language Processing,Applied data analysis skills,Advanced,view,0.7,82,2025-09-19 11:29:50,1
+U7,C14,Natural Language Processing,Advanced techniques and models,Intermediate,click,0.72,72,2025-11-13 11:29:50,1
+U16,C11,Natural Language Processing,Advanced techniques and models,Advanced,click,0.8,83,2025-12-04 11:29:50,0
+U30,C3,Deep Learning Fundamentals,Foundational concepts and theory,Advanced,quiz_attempt,0.73,71,2025-07-23 11:29:50,0
+U32,C16,Data Science with Python,Applied data analysis skills,Beginner,completion,0.61,72,2025-09-10 11:29:50,1
+U42,C17,Deep Learning Fundamentals,Text processing and language models,Advanced,view,0.78,77,2026-01-02 11:29:50,0
+U36,C15,Natural Language Processing,Advanced techniques and models,Beginner,view,0.28,69,2025-09-09 11:29:50,1
+U13,C17,Introduction to AI,Advanced techniques and models,Advanced,view,0.6,53,2025-10-27 11:29:50,0
+U36,C9,Data Science with Python,Foundational concepts and theory,Intermediate,quiz_attempt,0.23,55,2025-10-23 11:29:50,0
+U42,C10,Data Science with Python,Foundational concepts and theory,Intermediate,click,0.33,61,2025-10-29 11:29:50,0
+U5,C16,Deep Learning Fundamentals,Hands-on practical course,Intermediate,view,0.21,52,2025-10-04 11:29:50,1
+U31,C8,Deep Learning Fundamentals,Applied data analysis skills,Intermediate,quiz_attempt,0.58,74,2025-11-04 11:29:50,1
+U30,C17,Natural Language Processing,Applied data analysis skills,Beginner,view,0.45,59,2025-08-22 11:29:50,0
+U1,C20,Deep Learning Fundamentals,Text processing and language models,Beginner,click,0.2,62,2025-09-12 11:29:50,1
+U11,C12,Introduction to AI,Text processing and language models,Beginner,quiz_attempt,0.81,43,2025-09-05 11:29:50,0
+U7,C12,Deep Learning Fundamentals,Text processing and language models,Intermediate,quiz_attempt,0.82,67,2025-08-16 11:29:50,1
+U39,C2,Machine Learning Basics,Applied data analysis skills,Advanced,quiz_attempt,0.53,83,2026-01-11 11:29:50,1
+U33,C14,Natural Language Processing,Applied data analysis skills,Advanced,quiz_attempt,0.21,98,2025-11-06 11:29:50,0
+U35,C4,Deep Learning Fundamentals,Hands-on practical course,Beginner,completion,0.7,82,2025-09-26 11:29:50,0
+U26,C4,Data Science with Python,Applied data analysis skills,Advanced,click,0.89,53,2025-12-26 11:29:50,1
+U5,C13,Deep Learning Fundamentals,Text processing and language models,Intermediate,completion,0.91,43,2026-01-12 11:29:50,0
+U49,C8,Machine Learning Basics,Hands-on practical course,Intermediate,view,0.28,100,2025-08-10 11:29:50,1
+U9,C20,Machine Learning Basics,Hands-on practical course,Advanced,view,0.7,46,2025-11-24 11:29:50,0
+U49,C5,Deep Learning Fundamentals,Foundational concepts and theory,Intermediate,click,0.71,52,2025-09-01 11:29:50,0
+U50,C5,Data Science with Python,Applied data analysis skills,Beginner,quiz_attempt,0.49,57,2025-12-08 11:29:50,1
+U46,C10,Deep Learning Fundamentals,Text processing and language models,Advanced,completion,0.89,51,2025-07-19 11:29:50,0
+U42,C15,Data Science with Python,Applied data analysis skills,Intermediate,quiz_attempt,0.31,50,2025-12-30 11:29:50,0
+U47,C10,Introduction to AI,Applied data analysis skills,Intermediate,click,0.49,86,2025-10-16 11:29:50,0
+U9,C17,Data Science with Python,Text processing and language models,Advanced,click,0.43,41,2025-07-25 11:29:50,0
+U5,C9,Natural Language Processing,Foundational concepts and theory,Advanced,click,0.4,92,2025-08-01 11:29:50,0
+U19,C19,Deep Learning Fundamentals,Hands-on practical course,Advanced,click,0.6,48,2026-01-12 11:29:50,0
+U28,C13,Machine Learning Basics,Hands-on practical course,Beginner,click,0.87,92,2025-08-27 11:29:50,1
+U32,C14,Data Science with Python,Hands-on practical course,Intermediate,click,0.39,94,2025-07-25 11:29:50,0
+U5,C7,Deep Learning Fundamentals,Hands-on practical course,Advanced,completion,0.55,50,2025-10-09 11:29:50,1
+U30,C15,Machine Learning Basics,Text processing and language models,Intermediate,view,0.48,75,2025-11-10 11:29:50,1
+U45,C9,Natural Language Processing,Text processing and language models,Advanced,click,0.6,41,2025-12-10 11:29:50,1
+U2,C7,Natural Language Processing,Advanced techniques and models,Beginner,view,0.78,88,2025-11-07 11:29:50,0
+U36,C6,Machine Learning Basics,Text processing and language models,Advanced,quiz_attempt,0.57,43,2026-01-11 11:29:50,0
+U21,C15,Machine Learning Basics,Hands-on practical course,Intermediate,view,0.97,66,2025-11-11 11:29:50,0
+U31,C9,Machine Learning Basics,Foundational concepts and theory,Advanced,quiz_attempt,0.21,85,2025-11-29 11:29:50,0
+U25,C6,Introduction to AI,Advanced techniques and models,Beginner,view,0.3,67,2025-08-12 11:29:50,0
+U47,C18,Introduction to AI,Advanced techniques and models,Advanced,view,0.46,76,2025-08-07 11:29:50,0
+U9,C5,Data Science with Python,Hands-on practical course,Intermediate,quiz_attempt,0.35,96,2025-08-10 11:29:50,0
+U38,C19,Introduction to AI,Foundational concepts and theory,Beginner,click,0.94,65,2025-09-07 11:29:50,1
+U37,C18,Deep Learning Fundamentals,Text processing and language models,Beginner,quiz_attempt,0.58,60,2026-01-03 11:29:50,1
+U38,C11,Natural Language Processing,Applied data analysis skills,Intermediate,click,0.26,46,2025-08-19 11:29:50,1
+U29,C14,Data Science with Python,Advanced techniques and models,Intermediate,completion,0.57,88,2025-10-23 11:29:50,0
+U8,C20,Data Science with Python,Applied data analysis skills,Advanced,quiz_attempt,0.96,85,2025-09-24 11:29:50,1
+U44,C17,Data Science with Python,Applied data analysis skills,Beginner,click,0.86,41,2025-12-17 11:29:50,1
+U28,C20,Introduction to AI,Advanced techniques and models,Advanced,view,0.3,48,2025-10-26 11:29:50,0
+U36,C18,Introduction to AI,Hands-on practical course,Advanced,quiz_attempt,0.25,88,2025-09-07 11:29:50,0
+U37,C7,Natural Language Processing,Applied data analysis skills,Beginner,view,0.4,74,2025-10-17 11:29:50,1
+U8,C7,Introduction to AI,Text processing and language models,Intermediate,click,0.86,46,2025-11-24 11:29:50,0
+U33,C13,Introduction to AI,Hands-on practical course,Beginner,quiz_attempt,0.24,81,2025-10-26 11:29:50,1
+U31,C7,Data Science with Python,Text processing and language models,Beginner,view,0.73,76,2025-07-28 11:29:50,1
+U40,C4,Machine Learning Basics,Hands-on practical course,Intermediate,click,0.64,60,2025-08-19 11:29:50,0
+U31,C1,Machine Learning Basics,Applied data analysis skills,Beginner,completion,0.4,66,2026-01-11 11:29:50,1
+U44,C16,Deep Learning Fundamentals,Applied data analysis skills,Beginner,click,0.72,72,2026-01-11 11:29:50,0
+U32,C18,Introduction to AI,Advanced techniques and models,Advanced,quiz_attempt,0.61,98,2026-01-05 11:29:50,1
+U22,C19,Machine Learning Basics,Foundational concepts and theory,Intermediate,completion,0.61,44,2026-01-05 11:29:50,1
+U50,C19,Machine Learning Basics,Hands-on practical course,Beginner,view,0.66,69,2025-11-10 11:29:50,0
+U5,C9,Deep Learning Fundamentals,Text processing and language models,Beginner,completion,0.72,71,2025-10-25 11:29:50,0
+U8,C2,Deep Learning Fundamentals,Applied data analysis skills,Intermediate,quiz_attempt,0.82,50,2025-10-17 11:29:50,1
+U47,C7,Introduction to AI,Hands-on practical course,Beginner,quiz_attempt,0.32,60,2026-01-10 11:29:50,0
+U1,C16,Natural Language Processing,Text processing and language models,Advanced,view,0.95,46,2025-07-28 11:29:50,0
+U44,C10,Machine Learning Basics,Hands-on practical course,Intermediate,view,0.76,66,2026-01-08 11:29:50,1
+U30,C1,Deep Learning Fundamentals,Hands-on practical course,Intermediate,quiz_attempt,0.41,46,2025-08-13 11:29:50,1
+U31,C7,Machine Learning Basics,Foundational concepts and theory,Advanced,click,0.54,69,2025-10-08 11:29:50,1
+U9,C11,Data Science with Python,Text processing and language models,Intermediate,click,0.97,66,2025-10-15 11:29:50,1
+U21,C12,Machine Learning Basics,Advanced techniques and models,Intermediate,completion,1.0,100,2025-07-17 11:29:50,0
+U4,C10,Introduction to AI,Foundational concepts and theory,Advanced,quiz_attempt,0.87,49,2025-10-08 11:29:50,1
+U22,C14,Data Science with Python,Hands-on practical course,Beginner,quiz_attempt,0.44,72,2025-12-14 11:29:50,0
+U43,C11,Deep Learning Fundamentals,Applied data analysis skills,Intermediate,completion,0.33,100,2025-11-07 11:29:50,0
+U21,C12,Natural Language Processing,Advanced techniques and models,Beginner,view,0.37,86,2025-08-23 11:29:50,0
+U25,C11,Data Science with Python,Applied data analysis skills,Intermediate,completion,0.98,99,2025-09-11 11:29:50,1
+U48,C18,Data Science with Python,Foundational concepts and theory,Beginner,quiz_attempt,0.26,43,2025-11-02 11:29:50,1
+U32,C18,Introduction to AI,Text processing and language models,Intermediate,completion,0.64,63,2026-01-01 11:29:50,1
+U6,C8,Machine Learning Basics,Applied data analysis skills,Advanced,quiz_attempt,0.95,40,2025-10-26 11:29:50,1
+U48,C9,Machine Learning Basics,Text processing and language models,Intermediate,completion,0.6,69,2025-12-22 11:29:50,1
+U10,C2,Data Science with Python,Text processing and language models,Beginner,click,0.84,93,2025-11-23 11:29:50,0
+U41,C6,Machine Learning Basics,Foundational concepts and theory,Beginner,quiz_attempt,0.43,47,2025-07-30 11:29:50,0
+U41,C1,Data Science with Python,Advanced techniques and models,Advanced,quiz_attempt,0.57,46,2025-08-05 11:29:50,1
+U49,C16,Natural Language Processing,Advanced techniques and models,Advanced,quiz_attempt,0.99,98,2025-09-08 11:29:50,0
+U14,C5,Machine Learning Basics,Advanced techniques and models,Advanced,completion,1.0,54,2025-12-17 11:29:50,1
+U27,C9,Introduction to AI,Applied data analysis skills,Beginner,click,0.44,62,2025-07-30 11:29:50,0
+U32,C8,Introduction to AI,Hands-on practical course,Advanced,completion,0.4,89,2025-10-25 11:29:50,0
+U40,C11,Introduction to AI,Hands-on practical course,Advanced,quiz_attempt,0.74,43,2025-10-18 11:29:50,0
+U24,C11,Data Science with Python,Foundational concepts and theory,Intermediate,view,0.43,71,2025-09-05 11:29:50,1
+U28,C18,Deep Learning Fundamentals,Hands-on practical course,Advanced,completion,0.93,68,2025-11-24 11:29:50,0
+U15,C15,Natural Language Processing,Hands-on practical course,Intermediate,completion,0.76,74,2025-08-27 11:29:50,0
+U16,C12,Introduction to AI,Hands-on practical course,Advanced,view,0.68,87,2025-08-06 11:29:50,0
+U28,C13,Machine Learning Basics,Advanced techniques and models,Beginner,click,0.28,71,2025-11-30 11:29:50,0
+U14,C9,Introduction to AI,Foundational concepts and theory,Intermediate,click,0.83,74,2025-12-19 11:29:50,1
+U19,C13,Machine Learning Basics,Text processing and language models,Advanced,click,0.58,62,2025-08-27 11:29:50,1
+U27,C6,Deep Learning Fundamentals,Text processing and language models,Advanced,quiz_attempt,0.22,74,2025-11-14 11:29:50,1
+U41,C8,Natural Language Processing,Applied data analysis skills,Beginner,quiz_attempt,0.98,41,2025-08-20 11:29:50,1
+U35,C1,Deep Learning Fundamentals,Foundational concepts and theory,Advanced,view,0.36,98,2025-12-09 11:29:50,1
+U21,C7,Data Science with Python,Applied data analysis skills,Advanced,completion,0.8,75,2025-09-26 11:29:50,0
+U5,C5,Data Science with Python,Foundational concepts and theory,Beginner,quiz_attempt,0.24,42,2025-11-17 11:29:50,1
+U31,C19,Natural Language Processing,Text processing and language models,Intermediate,completion,0.48,74,2025-09-16 11:29:50,0
+U42,C19,Introduction to AI,Advanced techniques and models,Advanced,quiz_attempt,0.31,80,2025-09-01 11:29:50,0
+U10,C11,Machine Learning Basics,Hands-on practical course,Intermediate,view,0.32,97,2025-11-10 11:29:50,1
+U2,C16,Data Science with Python,Foundational concepts and theory,Beginner,click,0.77,60,2025-12-13 11:29:50,0
+U5,C15,Introduction to AI,Applied data analysis skills,Advanced,completion,0.98,94,2025-08-25 11:29:50,1
+U30,C6,Data Science with Python,Hands-on practical course,Advanced,quiz_attempt,0.99,88,2025-12-27 11:29:50,0
+U32,C14,Deep Learning Fundamentals,Text processing and language models,Intermediate,completion,0.82,64,2025-11-23 11:29:50,1
+U49,C19,Data Science with Python,Hands-on practical course,Advanced,quiz_attempt,0.74,73,2025-11-28 11:29:50,0
+U36,C10,Machine Learning Basics,Text processing and language models,Intermediate,quiz_attempt,0.31,91,2025-10-24 11:29:50,0
+U12,C20,Data Science with Python,Advanced techniques and models,Intermediate,completion,0.45,100,2025-10-19 11:29:50,0
+U46,C15,Introduction to AI,Hands-on practical course,Advanced,quiz_attempt,0.67,54,2025-10-17 11:29:50,1
+U40,C1,Introduction to AI,Applied data analysis skills,Intermediate,view,0.78,86,2025-12-26 11:29:50,1
+U4,C19,Machine Learning Basics,Foundational concepts and theory,Intermediate,quiz_attempt,0.76,44,2025-10-28 11:29:50,1
+U45,C20,Introduction to AI,Advanced techniques and models,Beginner,view,0.35,56,2025-10-29 11:29:50,1
+U22,C9,Deep Learning Fundamentals,Applied data analysis skills,Advanced,quiz_attempt,0.25,55,2025-12-31 11:29:50,1
+U26,C10,Natural Language Processing,Hands-on practical course,Beginner,quiz_attempt,0.32,62,2025-09-22 11:29:50,1
+U28,C11,Machine Learning Basics,Foundational concepts and theory,Advanced,completion,0.71,86,2026-01-06 11:29:50,1
+U12,C20,Introduction to AI,Foundational concepts and theory,Beginner,view,0.86,85,2025-10-02 11:29:50,0
+U46,C7,Deep Learning Fundamentals,Applied data analysis skills,Advanced,view,0.23,98,2025-11-01 11:29:50,0
+U23,C1,Introduction to AI,Applied data analysis skills,Beginner,quiz_attempt,0.52,63,2025-07-26 11:29:50,1
+U1,C13,Introduction to AI,Foundational concepts and theory,Beginner,click,0.59,59,2025-12-01 11:29:50,0
+U27,C2,Data Science with Python,Applied data analysis skills,Advanced,click,0.71,70,2026-01-10 11:29:50,0
+U48,C8,Introduction to AI,Hands-on practical course,Advanced,completion,0.62,89,2025-07-24 11:29:50,1
+U5,C14,Introduction to AI,Text processing and language models,Beginner,completion,0.53,40,2025-10-05 11:29:50,1
+U1,C17,Deep Learning Fundamentals,Hands-on practical course,Intermediate,view,0.8,61,2026-01-06 11:29:50,1
+U21,C2,Deep Learning Fundamentals,Text processing and language models,Beginner,click,0.74,55,2026-01-04 11:29:50,1
+U25,C16,Machine Learning Basics,Applied data analysis skills,Beginner,completion,0.85,94,2025-10-24 11:29:50,0
+U25,C10,Natural Language Processing,Text processing and language models,Beginner,completion,0.62,87,2025-12-15 11:29:50,1
+U20,C18,Introduction to AI,Hands-on practical course,Beginner,click,0.88,58,2025-09-04 11:29:50,1
+U39,C18,Machine Learning Basics,Applied data analysis skills,Intermediate,view,0.58,66,2025-08-03 11:29:50,1
+U26,C17,Introduction to AI,Hands-on practical course,Beginner,completion,0.64,98,2025-11-13 11:29:50,1
+U5,C9,Data Science with Python,Foundational concepts and theory,Beginner,click,0.44,65,2025-08-30 11:29:50,0
+U39,C5,Introduction to AI,Text processing and language models,Intermediate,click,0.27,73,2025-10-05 11:29:50,1
+U37,C14,Introduction to AI,Advanced techniques and models,Intermediate,completion,0.82,68,2025-07-31 11:29:50,0
+U26,C6,Data Science with Python,Applied data analysis skills,Advanced,view,0.51,58,2025-11-24 11:29:50,0
+U5,C17,Machine Learning Basics,Applied data analysis skills,Intermediate,quiz_attempt,0.27,67,2025-08-01 11:29:50,1
+U45,C5,Machine Learning Basics,Foundational concepts and theory,Intermediate,click,0.64,83,2025-10-20 11:29:50,1
+U21,C1,Natural Language Processing,Applied data analysis skills,Intermediate,completion,0.6,75,2025-12-04 11:29:50,0
+U37,C14,Data Science with Python,Advanced techniques and models,Beginner,quiz_attempt,0.75,85,2025-11-03 11:29:50,1
+U40,C20,Introduction to AI,Applied data analysis skills,Beginner,click,0.69,88,2025-08-21 11:29:50,1
+U18,C20,Introduction to AI,Foundational concepts and theory,Intermediate,quiz_attempt,0.79,40,2025-09-29 11:29:50,1
+U20,C4,Natural Language Processing,Foundational concepts and theory,Advanced,view,0.63,93,2025-08-06 11:29:50,1
+U32,C13,Machine Learning Basics,Hands-on practical course,Beginner,completion,0.88,55,2025-08-09 11:29:50,1
+U17,C8,Introduction to AI,Applied data analysis skills,Advanced,quiz_attempt,0.26,58,2025-07-19 11:29:50,0
+U7,C2,Natural Language Processing,Text processing and language models,Advanced,click,0.58,97,2025-12-13 11:29:50,0
+U25,C7,Natural Language Processing,Foundational concepts and theory,Advanced,view,0.61,99,2025-11-10 11:29:50,1
+U15,C12,Introduction to AI,Hands-on practical course,Advanced,quiz_attempt,0.83,100,2025-12-23 11:29:50,0
+U32,C13,Natural Language Processing,Text processing and language models,Beginner,quiz_attempt,0.47,45,2025-11-09 11:29:50,1
+U14,C17,Natural Language Processing,Hands-on practical course,Beginner,view,0.72,62,2025-10-07 11:29:50,0
+U13,C16,Deep Learning Fundamentals,Foundational concepts and theory,Intermediate,quiz_attempt,0.33,91,2025-09-17 11:29:50,1
+U9,C11,Data Science with Python,Applied data analysis skills,Intermediate,click,0.76,67,2025-12-21 11:29:50,0
+U34,C10,Introduction to AI,Hands-on practical course,Intermediate,click,0.44,87,2025-12-07 11:29:50,1
+U18,C20,Data Science with Python,Hands-on practical course,Intermediate,completion,0.54,49,2025-11-09 11:29:50,0
+U42,C7,Deep Learning Fundamentals,Hands-on practical course,Intermediate,quiz_attempt,0.7,59,2025-12-31 11:29:50,0
+U23,C11,Deep Learning Fundamentals,Hands-on practical course,Beginner,click,0.32,99,2025-10-04 11:29:50,1
+U5,C3,Deep Learning Fundamentals,Foundational concepts and theory,Beginner,quiz_attempt,0.84,45,2025-11-13 11:29:50,1
+U10,C18,Introduction to AI,Text processing and language models,Advanced,completion,0.42,83,2025-10-11 11:29:50,0
+U2,C13,Deep Learning Fundamentals,Text processing and language models,Advanced,click,0.65,97,2025-08-31 11:29:50,1
+U35,C1,Deep Learning Fundamentals,Advanced techniques and models,Beginner,quiz_attempt,0.93,99,2025-08-10 11:29:50,0
+U37,C2,Natural Language Processing,Advanced techniques and models,Advanced,view,0.88,100,2025-11-07 11:29:50,1
+U48,C15,Machine Learning Basics,Foundational concepts and theory,Beginner,quiz_attempt,0.56,44,2025-08-24 11:29:50,0
+U20,C17,Data Science with Python,Advanced techniques and models,Intermediate,click,0.5,46,2025-11-06 11:29:50,1
+U23,C19,Deep Learning Fundamentals,Hands-on practical course,Intermediate,view,0.27,88,2025-10-13 11:29:50,0
+U13,C13,Data Science with Python,Applied data analysis skills,Intermediate,completion,0.41,77,2025-08-15 11:29:50,1
+U26,C18,Deep Learning Fundamentals,Applied data analysis skills,Beginner,completion,0.57,71,2025-11-03 11:29:50,1
+U4,C15,Natural Language Processing,Applied data analysis skills,Advanced,completion,1.0,41,2025-08-04 11:29:50,1
+U2,C4,Machine Learning Basics,Foundational concepts and theory,Beginner,view,0.75,52,2025-08-29 11:29:50,1
+U36,C13,Data Science with Python,Foundational concepts and theory,Beginner,view,0.76,44,2025-09-03 11:29:50,0
+U13,C20,Natural Language Processing,Foundational concepts and theory,Beginner,view,0.67,86,2025-11-15 11:29:50,1
+U11,C8,Data Science with Python,Advanced techniques and models,Intermediate,completion,0.47,78,2025-12-14 11:29:50,1
+U16,C19,Introduction to AI,Text processing and language models,Beginner,completion,0.71,45,2025-10-17 11:29:50,0
+U37,C2,Introduction to AI,Advanced techniques and models,Advanced,quiz_attempt,0.78,68,2025-10-17 11:29:50,0
+U35,C7,Data Science with Python,Hands-on practical course,Beginner,click,0.49,48,2025-09-02 11:29:50,0
+U25,C15,Data Science with Python,Advanced techniques and models,Beginner,quiz_attempt,0.41,77,2025-07-31 11:29:50,1
+U26,C4,Introduction to AI,Hands-on practical course,Advanced,view,0.28,68,2025-08-23 11:29:50,0
+U15,C20,Data Science with Python,Advanced techniques and models,Beginner,quiz_attempt,0.46,81,2025-12-02 11:29:50,1
+U46,C13,Deep Learning Fundamentals,Foundational concepts and theory,Intermediate,completion,0.28,73,2025-08-15 11:29:50,0
+U47,C14,Machine Learning Basics,Hands-on practical course,Intermediate,completion,0.95,58,2025-09-05 11:29:50,0
+U42,C19,Introduction to AI,Advanced techniques and models,Advanced,view,0.83,66,2026-01-02 11:29:50,1
+U1,C6,Data Science with Python,Advanced techniques and models,Beginner,click,0.98,84,2025-09-14 11:29:50,1
+U16,C16,Data Science with Python,Hands-on practical course,Advanced,click,0.53,50,2025-10-11 11:29:50,1
+U38,C20,Deep Learning Fundamentals,Hands-on practical course,Advanced,click,0.7,68,2025-08-31 11:29:50,1
+U47,C19,Deep Learning Fundamentals,Foundational concepts and theory,Intermediate,completion,0.97,68,2025-07-28 11:29:50,1
+U43,C1,Natural Language Processing,Hands-on practical course,Beginner,click,0.83,40,2025-09-04 11:29:50,0
+U9,C2,Introduction to AI,Text processing and language models,Intermediate,click,0.25,45,2025-10-20 11:29:50,0
+U21,C2,Data Science with Python,Hands-on practical course,Intermediate,click,0.39,69,2025-07-21 11:29:50,0
+U25,C6,Machine Learning Basics,Text processing and language models,Beginner,completion,0.39,81,2025-11-10 11:29:50,0
+U42,C7,Natural Language Processing,Hands-on practical course,Advanced,completion,0.82,47,2025-11-19 11:29:50,1
+U5,C15,Natural Language Processing,Applied data analysis skills,Beginner,completion,0.2,99,2025-09-16 11:29:50,0
+U26,C6,Machine Learning Basics,Applied data analysis skills,Advanced,completion,0.54,71,2025-07-22 11:29:50,1
+U19,C16,Machine Learning Basics,Advanced techniques and models,Intermediate,click,0.64,78,2025-12-08 11:29:50,1
+U43,C16,Introduction to AI,Advanced techniques and models,Intermediate,completion,0.33,48,2025-09-01 11:29:50,0
+U32,C13,Data Science with Python,Foundational concepts and theory,Intermediate,view,0.98,66,2025-09-25 11:29:50,0
+U5,C4,Machine Learning Basics,Advanced techniques and models,Beginner,completion,0.72,90,2025-08-31 11:29:50,1
+U36,C19,Machine Learning Basics,Advanced techniques and models,Beginner,click,0.67,63,2025-09-13 11:29:50,1
+U32,C13,Deep Learning Fundamentals,Text processing and language models,Intermediate,view,0.95,83,2025-08-17 11:29:50,0

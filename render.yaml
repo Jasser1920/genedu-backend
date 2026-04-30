@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: genedu-backend
+    runtime: python
+    buildCommand: pip install -r requirements.txt && python -m spacy download en_core_web_sm
+    startCommand: uvicorn app:app --host 0.0.0.0 --port 10000
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false

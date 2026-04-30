@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d2" for="node" attr.name="label" attr.type="string" />
+  <key id="d1" for="node" attr.name="title" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="item_C11">
+      <data key="d0">item</data>
+      <data key="d1">Deep Learning Fundamentals</data>
+    </node>
+    <node id="item_C16">
+      <data key="d0">item</data>
+      <data key="d1">Introduction to AI</data>
+    </node>
+    <node id="item_C13">
+      <data key="d0">item</data>
+      <data key="d1">Data Science with Python</data>
+    </node>
+    <node id="item_C15">
+      <data key="d0">item</data>
+      <data key="d1">Natural Language Processing</data>
+    </node>
+    <node id="item_C14">
+      <data key="d0">item</data>
+      <data key="d1">Machine Learning Basics</data>
+    </node>
+    <node id="item_C9">
+      <data key="d0">item</data>
+      <data key="d1">Data Science with Python</data>
+    </node>
+    <node id="item_C3">
+      <data key="d0">item</data>
+      <data key="d1">Deep Learning Fundamentals</data>
+    </node>
+    <node id="item_C17">
+      <data key="d0">item</data>
+      <data key="d1">Data Science with Python</data>
+    </node>
+    <node id="item_C10">
+      <data key="d0">item</data>
+      <data key="d1">Introduction to AI</data>
+    </node>
+    <node id="item_C8">
+      <data key="d0">item</data>
+      <data key="d1">Data Science with Python</data>
+    </node>
+    <node id="item_C20">
+      <data key="d0">item</data>
+      <data key="d1">Deep Learning Fundamentals</data>
+    </node>
+    <node id="item_C12">
+      <data key="d0">item</data>
+      <data key="d1">Introduction to AI</data>
+    </node>
+    <node id="item_C2">
+      <data key="d0">item</data>
+      <data key="d1">Data Science with Python</data>
+    </node>
+    <node id="item_C4">
+      <data key="d0">item</data>
+      <data key="d1">Machine Learning Basics</data>
+    </node>
+    <node id="item_C5">
+      <data key="d0">item</data>
+      <data key="d1">Machine Learning Basics</data>
+    </node>
+    <node id="item_C19">
+      <data key="d0">item</data>
+      <data key="d1">Machine Learning Basics</data>
+    </node>
+    <node id="item_C7">
+      <data key="d0">item</data>
+      <data key="d1">Natural Language Processing</data>
+    </node>
+    <node id="item_C6">
+      <data key="d0">item</data>
+      <data key="d1">Machine Learning Basics</data>
+    </node>
+    <node id="item_C18">
+      <data key="d0">item</data>
+      <data key="d1">Deep Learning Fundamentals</data>
+    </node>
+    <node id="item_C1">
+      <data key="d0">item</data>
+      <data key="d1">Natural Language Processing</data>
+    </node>
+    <node id="concept_c16">
+      <data key="d0">concept</data>
+      <data key="d2">c16</data>
+    </node>
+    <node id="concept_deep learning fundamentals">
+      <data key="d0">concept</data>
+      <data key="d2">deep learning fundamentals</data>
+    </node>
+    <node id="concept_c12">
+      <data key="d0">concept</data>
+      <data key="d2">c12</data>
+    </node>
+    <node id="concept_learning basics">
+      <data key="d0">concept</data>
+      <data key="d2">learning basics</data>
+    </node>
+    <node id="concept_c18">
+      <data key="d0">concept</data>
+      <data key="d2">c18</data>
+    </node>
+    <edge source="item_C11" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C16" target="concept_c16">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C16" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C16" target="concept_learning basics">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C13" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C13" target="concept_learning basics">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C15" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C15" target="concept_learning basics">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C14" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C9" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C9" target="concept_learning basics">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C3" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C17" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C10" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C10" target="concept_learning basics">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C8" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C20" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C12" target="concept_c12">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C12" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C12" target="concept_learning basics">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C2" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C4" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C4" target="concept_learning basics">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C5" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C5" target="concept_learning basics">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C19" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C19" target="concept_learning basics">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C7" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C6" target="concept_learning basics">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C6" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C18" target="concept_c18">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C18" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="item_C1" target="concept_deep learning fundamentals">
+      <data key="d3">mentions</data>
+    </edge>
+  </graph>
+</graphml>
